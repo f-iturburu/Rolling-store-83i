@@ -6,7 +6,7 @@
         "category" : "bottle",
         "quantity": 1,
         "visible": true,
-        "image": "https://rollingcodeschool.com/wp-content/uploads/2022/11/WhatsApp-Image-2022-11-22-at-18.45.49-500x500.jpeg",
+        "image": "https://ik.imagekit.io/jamhjw08s/Botella%20deportiva%20de%20aluminio%20reutilizable.jpeg?updatedAt=1702929983622",
         "id": "6c03401c-6543-11ee-8c99-0242ac120002"
     },
     {
@@ -16,7 +16,7 @@
         "category" : "hat",
         "quantity": 1,
         "visible": true,
-        "image": "https://rollingcodeschool.com/wp-content/uploads/2023/06/20230623_155345-scaled.jpg",
+        "image": "https://ik.imagekit.io/jamhjw08s/Gorra%20Negra%20RollingCode.jpg?updatedAt=1702929987757",
         "id": "6fe95464-6543-11ee-8c99-0242ac120002"
     },
     {
@@ -26,7 +26,7 @@
         "category" : "hat",
         "quantity": 1,
         "visible": true,
-        "image": "https://rollingcodeschool.com/wp-content/uploads/2021/09/WhatsApp-Image-2021-11-03-at-11.15.45-AM-3.jpeg",
+        "image": "https://ik.imagekit.io/jamhjw08s/Gorra%20Roja%20RollingCode.jpeg?updatedAt=1702929982983",
         "id": "73d71674-6543-11ee-8c99-0242ac120002"
     },
     {
@@ -36,7 +36,7 @@
         "category" : "notepad",
         "quantity": 1,
         "visible": true,
-        "image": "https://rollingcodeschool.com/wp-content/uploads/2021/11/WhatsApp-Image-2021-11-03-at-11.15.46-AM.jpeg",
+        "image": "https://ik.imagekit.io/jamhjw08s/Libreta.jpeg?updatedAt=1702929983689",
         "id": "7722d430-6543-11ee-8c99-0242ac120002"
     }
     ,   {
@@ -46,7 +46,7 @@
         "category" : "notepad",
         "quantity": 1,
         "visible": true,
-        "image": "https://rollingcodeschool.com/wp-content/uploads/2023/06/20230622_162811-scaled.jpg",
+        "image": "https://ik.imagekit.io/jamhjw08s/Libreta%20Anotador%20RollingCode%20Labs.jpg?updatedAt=1702929987699",
         "id": "7aa94bf2-6543-11ee-8c99-0242ac120002"
     },
     {
@@ -56,7 +56,7 @@
         "category" : "keychain",
         "quantity": 1,
         "visible": true,
-        "image": "https://rollingcodeschool.com/wp-content/uploads/2021/11/WhatsApp-Image-2021-11-03-at-11.25.08-AM.jpeg",
+        "image": "https://ik.imagekit.io/jamhjw08s/Llaveros%20RollingCode.jpeg?updatedAt=1702929983872",
         "id": "7d297bf4-6543-11ee-8c99-0242ac120002"
     },
     {
@@ -66,7 +66,7 @@
         "category" : "keychain",
         "quantity": 1,
         "visible": true,
-        "image": "https://rollingcodeschool.com/wp-content/uploads/2023/04/20230424_135552-scaled.jpg",
+        "image": "https://ik.imagekit.io/jamhjw08s/Pines%20RollinCode%20BLANCO%20%20NEGRO.jpg?updatedAt=1702929987271",
         "id": "7f7829d2-6543-11ee-8c99-0242ac120002"
     },
     {
@@ -76,7 +76,7 @@
         "category" : "mug",
         "quantity": 1,
         "visible": true,
-        "image": "https://rollingcodeschool.com/wp-content/uploads/2021/09/WhatsApp-Image-2021-11-03-at-11.15.43-AM-2.jpeg",
+        "image": "https://ik.imagekit.io/jamhjw08s/Taza%20Coding.jpeg?updatedAt=1702929983398",
         "id": "81e8d130-6543-11ee-8c99-0242ac120002"
     },
     {
@@ -86,7 +86,7 @@
         "category" : "mug",
         "quantity": 1,
         "visible": true,
-        "image": "https://rollingcodeschool.com/wp-content/uploads/2021/09/WhatsApp-Image-2021-11-03-at-11.15.44-AM-1.jpeg",
+        "image": "https://ik.imagekit.io/jamhjw08s/Taza%20No%20connection.jpeg?updatedAt=1702929983232",
         "id": "841862ae-6543-11ee-8c99-0242ac120002"
     }
     ,   {
@@ -96,7 +96,7 @@
         "category" : "mug",
         "quantity": 1,
         "visible": true,
-        "image": "https://rollingcodeschool.com/wp-content/uploads/2023/06/20230614_164115-scaled.jpg",
+        "image": "https://ik.imagekit.io/jamhjw08s/Taza%20RollingCode%20Labs.jpg?updatedAt=1702929987938",
         "id": "8682b31e-6543-11ee-8c99-0242ac120002"
     }
 ]
